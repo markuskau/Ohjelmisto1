@@ -13,3 +13,4 @@ print(f"Lukujen keskiarvo on: {average:.2f}")
 
 
 
+
