@@ -1,6 +1,6 @@
 def kirjautuminen():
-    oikea_kayttajatunnus = "ohjelmisto"
-    oikea_salasana = "metropolia"
+    oikea_kayttajatunnus = "python"
+    oikea_salasana = "rules"
     yrityksia_jaljella = 5
 
     while yrityksia_jaljella > 0:
