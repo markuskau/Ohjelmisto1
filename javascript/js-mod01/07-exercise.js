@@ -4,7 +4,7 @@ function rollDice() {
     let results = "";
 
     for (let i = 0; i < numberOfRolls; i++) {
-        let roll = Math.floor(Math.random() * 6) + 1; // Satunnainen luku välillä 1-6
+        let roll = Math.floor(Math.random() * 6) + 1;
         totalSum += roll;
         results += `Roll ${i + 1}: ${roll}<br>`;
     }
